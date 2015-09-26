@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-barberdt",
+  "version": "0.0.0",
+  "description": "Personal eslint config.",
+  "main": ".eslintrc",
+  "scripts": {
+    "test": "eslint test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/barberdt/eslint-config.git"
+  },
+  "author": "Davis Barber <barberdt@gmail.com> (http://idofrontendthings.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barberdt/eslint-config/issues"
+  },
+  "homepage": "https://github.com/barberdt/eslint-config#readme",
+  "dependencies": {
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.5.1",
+    "eslint-plugin-react": "^3.4.2"
+  }
+}
