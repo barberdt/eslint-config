@@ -79,7 +79,6 @@ module.exports = {
     "no-const-assign": 2,
     "no-this-before-super": 2,
     "no-var": 2,
-    "object-shorthand": 2,
     "react/jsx-no-undef": 2,
     "react/jsx-sort-prop-types": 1,
     "react/no-did-mount-set-state": 1,
