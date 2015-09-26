@@ -2,7 +2,7 @@
   "name": "eslint-config-barberdt",
   "version": "0.0.1",
   "description": "Personal eslint config.",
-  "main": ".eslintrc",
+  "main": "index.js",
   "scripts": {
     "test": "eslint test.js"
   },

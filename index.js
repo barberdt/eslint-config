@@ -1,4 +1,4 @@
-{
+module.exports = {
   "extends": "eslint:recommended",
   "parser": "babel-eslint",
   "plugins": [
@@ -91,4 +91,4 @@
     "react/sort-comp": 2,
     "react/wrap-multilines": 2
   }
-}
+};
